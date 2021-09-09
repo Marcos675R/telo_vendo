@@ -19,12 +19,13 @@ h1{
     
 }
 h2{   
-    background-color: coral;
+    background-color: greenyellow;
     font-family: 'Luckiest Guy', cursive;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 5px 10px 10px black;
     text-align: center;
+    margin-top: 0.5cm;
 }
 nav{
     background-color: coral;
