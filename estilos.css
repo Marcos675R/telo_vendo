@@ -1,0 +1,75 @@
+body{
+background-image: url(/imagenes/backgroundMobile.png);
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    text-align: center;
+    background-image: url(https://thumbs.dreamstime.com/b/las-llamas-del-fuego-se-cierran-encima-de-la-visi%C3%B3n-117618865.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 10px black;
+    
+}
+h2{
+    background-color: coral;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 10px black;
+    text-align: center;
+}
+nav{
+    background-color: coral;
+    box-shadow: 10px 10px 10px black;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    
+
+}
+p{
+    text-align: justify;
+    background-color: darkgrey;
+    box-shadow: 10px 10px 10px black;
+    padding: 15px;
+    border-radius: 5px;
+}
+    
+
+
+footer{
+    text-align: center;
+    background-color:red;
+    padding: 3px;  
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+}
+/*div.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+div.container > img{
+    width: 100%;
+    margin-bottom: 25px;
+    box-shadow: 8px 10px 13px black;
+    border-radius: 30px;
+
+}*/
+.form > input,label{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
