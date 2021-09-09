@@ -9,16 +9,19 @@ font-family: Arial, Helvetica, sans-serif;
 h1{
     color: whitesmoke;
     text-align: center;
-    background-image: url(https://thumbs.dreamstime.com/b/las-llamas-del-fuego-se-cierran-encima-de-la-visi%C3%B3n-117618865.jpg);
-    background-attachment: fixed;
+    background-image: url(imagenes/banner.jpg);
+    color: white;
+    font-family: 'Luckiest Guy', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-position: center center;
     padding: 25px;
-    border-radius: 5px;
     box-shadow: 5px 10px 10px black;
     
 }
-h2{
+h2{   
     background-color: coral;
+    font-family: 'Luckiest Guy', cursive;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 5px 10px 10px black;
@@ -45,7 +48,7 @@ p{
 
 footer{
     text-align: center;
-    background-color:red;
+    background-color:coral;
     padding: 3px;  
     position: fixed;
     width: 100%;
